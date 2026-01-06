@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/huseyinbabal/tgcp/releases/download/v1.0.0/tgcp-x86_64-pc-windows-msvc.zip",
-            "hash": "47d60fba7d77a679e093f096d70b3c81c5ac07fbba27257a32e0b22d9637ac98"
+            "hash": "7641aa28e859008ed91e9a8dd7013422b633c13216915186933182169bdf1092"
         }
     },
     "bin": "tgcp.exe",
