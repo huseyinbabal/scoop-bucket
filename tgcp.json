@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/huseyinbabal/tgcp",
+    "license": "MIT",
+    "description": "Terminal UI for GCP - navigate, observe, and manage GCP resources",
+    "version": "1.0.0-rc.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/huseyinbabal/tgcp/releases/download/v1.0.0-rc.2/tgcp-x86_64-pc-windows-msvc.zip",
+            "hash": "58797805b6cffb080399c4cc03425ba2506e2a2250985389223958768b028167"
+        }
+    },
+    "bin": "tgcp.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/huseyinbabal/tgcp/releases/download/v$version/tgcp-x86_64-pc-windows-msvc.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
