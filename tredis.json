@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/huseyinbabal/tredis",
+    "license": "MIT",
+    "description": "Terminal UI for Redis",
+    "version": "1.0.0-rc.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/huseyinbabal/tredis/releases/download/v1.0.0-rc.2/tredis-x86_64-pc-windows-msvc.zip",
+            "hash": "f2c07c093711c6ae67453970d4362adaa52bdaca797c35468176fb79baf3a40c"
+        }
+    },
+    "bin": "tredis.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/huseyinbabal/tredis/releases/download/v$version/tredis-x86_64-pc-windows-msvc.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
