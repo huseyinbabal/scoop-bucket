@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/huseyinbabal/taws/releases/download/v1.1.7/taws-x86_64-pc-windows-msvc.zip",
-            "hash": "9e96dbbffcf954e8d2d5ad7e596d17a35be1b270fcbd2ab2231077adef9302f7"
+            "hash": "ee92a759a3295a1578831918d232bd1a39eac89d075e0279ce656c3bb7c011d4"
         }
     },
     "bin": "taws.exe",
