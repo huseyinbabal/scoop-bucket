@@ -2,11 +2,11 @@
     "homepage": "https://github.com/huseyinbabal/tgcp",
     "license": "MIT",
     "description": "Terminal UI for GCP",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/huseyinbabal/tgcp/releases/download/v1.0.2/tgcp-x86_64-pc-windows-msvc.zip",
-            "hash": "bd5ec928b5f094947a80e02d2b4e49c58adc7ebe13cf9dee958cec89889d136a"
+            "url": "https://github.com/huseyinbabal/tgcp/releases/download/v1.0.3/tgcp-x86_64-pc-windows-msvc.zip",
+            "hash": "250ec06f117e52d5fc238b4595258c3d18c1ab3e66bdd4cb665b3bdae37206d9"
         }
     },
     "bin": "tgcp.exe",
