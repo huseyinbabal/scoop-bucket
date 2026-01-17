@@ -2,11 +2,11 @@
     "homepage": "https://github.com/huseyinbabal/taws",
     "license": "MIT",
     "description": "Terminal UI for AWS",
-    "version": "1.2.0-rc.7",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/huseyinbabal/taws/releases/download/v1.2.0-rc.7/taws-x86_64-pc-windows-msvc.zip",
-            "hash": "61cedd8b04a1142566d63e88c620474f38770426cda7c2fc82ae66a2f5180848"
+            "url": "https://github.com/huseyinbabal/taws/releases/download/v1.2.0/taws-x86_64-pc-windows-msvc.zip",
+            "hash": "155622315c00e3ae304b1d1afb7f4d50ccff477df424e2a243faf81e3ebbc4a1"
         }
     },
     "bin": "taws.exe",
