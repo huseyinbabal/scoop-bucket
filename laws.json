@@ -2,11 +2,11 @@
     "homepage": "https://github.com/huseyinbabal/laws",
     "license": "MIT",
     "description": "Local AWS - a lightweight, fast AWS emulator written in Rust",
-    "version": "1.0.0-rc.3",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/huseyinbabal/laws/releases/download/v1.0.0-rc.3/laws-x86_64-pc-windows-msvc.zip",
-            "hash": "a928cd35a0416c8d2b5359e98158e1e05cd0ec6fb4c990f24f1b5716000daac0"
+            "url": "https://github.com/huseyinbabal/laws/releases/download/v1.0.0/laws-x86_64-pc-windows-msvc.zip",
+            "hash": "6fb49d260b1755a5e15ce2f5c8568b4ae746376ded0f62b9eb3feb2ae928b858"
         }
     },
     "bin": "laws.exe",
