@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/huseyinbabal/tsb",
+    "license": "MIT",
+    "description": "Terminal UI for Spring Boot - A modern TUI for managing Spring Boot applications",
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/huseyinbabal/tsb/releases/download/v1.0.0/tspring-x86_64-pc-windows-msvc.zip",
+            "hash": "93857fb83c57f649c18f91b1d1d70e334458fd82cd925b011cfe3e7123780357"
+        }
+    },
+    "bin": "tspring.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/huseyinbabal/tsb/releases/download/v$version/tspring-x86_64-pc-windows-msvc.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
