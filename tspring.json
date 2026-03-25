@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/huseyinbabal/tsb/releases/download/v1.0.0/tspring-x86_64-pc-windows-msvc.zip",
-            "hash": "08262a64188b394cbecc9bfee77f9b9d8b5865e9c26251a948891b26dfcae995"
+            "hash": "605655e130d901f70a6e0aa89f90a29d68ca23150bf0506be2381cccf45abff2"
         }
     },
     "bin": "tspring.exe",
