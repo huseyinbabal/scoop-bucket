@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/huseyinbabal/portkube/releases/download/v1.0.0/portkube-x86_64-pc-windows-msvc.zip",
-            "hash": "e2279b16543fc351b87b280dc2e903d7081d0c6a0ee7ec76742d80dbd96d11c6"
+            "hash": "7ea0d104477de32c35376ad66c8c211fe53958f6e38e5b42b181a8dc734d2e36"
         }
     },
     "bin": "portkube.exe",
