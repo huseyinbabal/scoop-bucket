@@ -2,11 +2,11 @@
     "homepage": "https://github.com/huseyinbabal/portkube",
     "license": "MIT",
     "description": "Access Kubernetes services from localhost by their DNS names",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/huseyinbabal/portkube/releases/download/v1.0.1/portkube-x86_64-pc-windows-msvc.zip",
-            "hash": "787a26ef8b2d826d3434f6fb3a1311ad7f2abd33ae2639b629d1bbe439d0a9ee"
+            "url": "https://github.com/huseyinbabal/portkube/releases/download/v1.1.0/portkube-x86_64-pc-windows-msvc.zip",
+            "hash": "986c8fd2267248f729e9c8e2d2db065560766ce46065d3c0c799374c9684240c"
         }
     },
     "bin": "portkube.exe",
