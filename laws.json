@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/huseyinbabal/laws/releases/download/v1.2.0/laws-x86_64-pc-windows-msvc.zip",
-            "hash": "2e51fd07bc231394268e7e69b60a78e070383b937781fb06a503362e15dc728a"
+            "hash": "27abbaa4d43143b8b66579577951e3128b7c96756f596e032645151a93edae28"
         }
     },
     "bin": "laws.exe",
