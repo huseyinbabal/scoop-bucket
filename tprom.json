@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/huseyinbabal/tprom",
+    "license": "MIT",
+    "description": "Terminal UI for Prometheus",
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/huseyinbabal/tprom/releases/download/v0.1.0/tprom-x86_64-pc-windows-msvc.zip",
+            "hash": "d45d6f8df2da1e632316d23f67833fb043ffac6d1fc98df34953ad2b57dd251d"
+        }
+    },
+    "bin": "tprom.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/huseyinbabal/tprom/releases/download/v$version/tprom-x86_64-pc-windows-msvc.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
